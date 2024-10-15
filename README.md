@@ -1,8 +1,5 @@
 # Calculator_project
 My second GitHub project. 
-
-Here’s a description for your Calculator project that you can use in a README.md file for GitHub:
-
 Java Swing Calculator
 Overview
 This is a simple Calculator application built using Java Swing for the graphical user interface (GUI). It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator allows users to input numbers and perform calculations using an intuitive interface with buttons for numbers, operators, and other actions like clear and delete.
