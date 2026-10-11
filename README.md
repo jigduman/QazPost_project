@@ -1,16 +1,18 @@
-# Calculator_project
-My second GitHub project. 
-Java Swing Calculator
-Overview
-This is a simple Calculator application built using Java Swing for the graphical user interface (GUI). It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator allows users to input numbers and perform calculations using an intuitive interface with buttons for numbers, operators, and other actions like clear and delete.
+# Java Swing Calculator — Project Notes
 
-Features
-Addition, Subtraction, Multiplication, and Division operations.
-Support for decimal point calculations.
-Clear and Delete buttons to reset the current input or the entire calculation.
-Responsive buttons with an intuitive layout.
-Displays results in a non-editable text field.
-Technologies Used
-Java: Core programming language.
-Swing: For building the graphical user interface (GUI).
-AWT: For basic layout and event handling.
+An early Java desktop-calculator project using Swing and AWT.
+
+**Repository status:** this repository currently contains documentation only. The calculator implementation has not been committed, so there are no runnable setup instructions.
+
+## Original project scope
+
+- Addition, subtraction, multiplication, and division.
+- Decimal inputs.
+- Clear and delete actions.
+- Button-based input and a result display.
+
+## Technologies
+
+Java, Swing, and AWT.
+
+[Author profile](https://github.com/jigduman) · [All projects](https://github.com/jigduman/jigduman/blob/main/PROJECTS.md)
